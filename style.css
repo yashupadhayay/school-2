@@ -252,8 +252,26 @@ h2{
 }
 .list h1{
    text-align: center;
+   padding: 15px;
 }
 .list h2{
    text-align: center;
-   font-size: 30px;
+   padding: 15px;
+}
+.circular{
+   margin-top: 20px;
+
+}
+.circular a{
+   font-size: 17px;
+   border: 2px solid black;
+   background-color: rgb(181, 52, 52);
+   text-decoration: none;
+   text-align: center;
+   padding: 5px;
+   margin-left: 20px;
+}
+.head{
+   text-align: center;
+   padding: 15px;
 }
