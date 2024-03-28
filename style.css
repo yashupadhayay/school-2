@@ -28,6 +28,7 @@ h2{
 }
 .description p{
    font-size: 22px;
+   margin-left:5px;
 }
 
 #carouselExampleSlidesOnly{
@@ -198,12 +199,12 @@ h2{
 .about h1{
    text-align: center;
    padding: 15px;
-   color: rgb(217, 67, 67);
+   color: black;
 }
 .about h2{
    text-align: left;
    font-size: 18px;
-   color: blue;
+   color: black;
 
 }
 .about p{
